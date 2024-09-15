@@ -78,11 +78,11 @@ function Project() {
             <div className="pro-image">
               <img src={BlogProject} alt="netflix" />
             </div>
-            <h1>A small app to post blogs and images</h1>
-            <p>A small app made while learning React and appwrite</p>
+            <h1>Blog-Appwrite</h1>
+            <p>A small app made while learning React and appwrite(BAAS)</p>
             <div className="pro-but">
               <a
-                href="https://github.com/Jassayy/blog-using-appwrite"
+                href="https://github.com/Jassayy/appwriteblog"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -92,7 +92,7 @@ function Project() {
                 />
               </a>
               <a
-                href="https://blog-using-appwrite-jg4pxebsz-jas-projects-bd0b31e3.vercel.app/"
+                href="https://appwriteblog-ten-chi.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
