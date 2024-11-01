@@ -106,6 +106,9 @@ const Contact = () => {
             </div>
           </div>
         </div>
+        <div className="text-center mt-8 text-sm text-gray-500">
+          © 2024 Jas Gandhi. All rights reserved.
+        </div>
       </div>
     </div>
   );
